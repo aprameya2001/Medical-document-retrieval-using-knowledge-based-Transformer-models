@@ -1,0 +1,8 @@
+torch
+nlp
+transformers
+pandas
+wget
+numpy
+regex
+tqdm
