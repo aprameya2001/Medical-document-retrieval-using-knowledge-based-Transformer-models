@@ -5,7 +5,7 @@ When it comes to document retrieval for a query, vocabulary mismatch is a signif
 
 
 ## Repository Link
-Link to GitHub Repository:
+Link to GitHub Repository:  
 https://github.com/aprameya2001/Medical-document-retrieval-using-knowledge-based-Transformer-models
 
 
